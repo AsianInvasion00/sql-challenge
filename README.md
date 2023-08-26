@@ -1,1 +1,3 @@
 # sql-challenge
+
+In this challenge, I had to learn how to organize and work with data using a tool called SQL. It's like putting data into different boxes (tables) and connecting those boxes with keys. Then, I had to write instructions (code) to turn that data into graphs that show important information. I struggled with a website called Quick DBD, which helps make these data boxes. But, thanks to a tutor and some friends in my class, I figured out how to make the boxes and connect them the right way. I also got help from classmates and online resources to write the instructions for making the boxes and turning them into graphs.
